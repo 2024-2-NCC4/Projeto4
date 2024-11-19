@@ -31,6 +31,7 @@ O objetivo geral é gerar análises eficientes para entender como as empresas fi
   &emsp;|-->Entrega 2<br>
   &emsp;|-->Entrega 3<br>
   &emsp;|-->Entrega 4<br>
+  &emsp;|-->Relatório Ciência de Dados<br>
 |-->imagens<br>
 |-->src<br>
 |readme.md<br>
